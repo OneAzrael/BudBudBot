@@ -1,0 +1,5 @@
+bin/
+obj/
+.vs/
+# Never share your bot token!
+token.txt
